@@ -3,7 +3,7 @@ import type { Route } from "./+types/about";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "About - React Router v7 Demo" },
+    { title: "About - React Router v7 DAC Demo" },
     { name: "description", content: "Learn more about us" },
   ];
 }
