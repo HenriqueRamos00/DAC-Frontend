@@ -11,8 +11,8 @@ export async function loader({ params }: Route.LoaderArgs) {
 This version introduces powerful new features like improved data loading patterns, better error handling, and enhanced type safety. The developer experience has been refined to make building complex applications more intuitive and maintainable.
 
 With built-in support for modern web standards and seamless integration with React's latest features, React Router v7 is the foundation for building robust, scalable web applications.`,
-    author: "John Doe",
-    date: "December 15, 2024",
+    author: "Admino",
+    date: "December 15, 2025",
     readTime: "5 min read",
     tags: ["React", "Routing", "Web Development"],
   };
